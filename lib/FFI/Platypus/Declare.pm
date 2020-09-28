@@ -4,7 +4,7 @@ use strict;
 use warnings;
 use 5.008004;
 use Carp ();
-use FFI::Platypus;
+use FFI::Platypus 1.33;
 
 # ABSTRACT: (discouraged) Declarative interface to FFI::Platypus
 # VERSION

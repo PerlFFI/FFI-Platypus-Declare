@@ -14,7 +14,6 @@ $modules{$_} = $_ for qw(
   FFI::Build::MM
   FFI::CheckLib
   FFI::Platypus
-  FFI::Platypus::Closure
   Test::More
 );
 
