@@ -1,6 +1,7 @@
 Revision history for {{$dist->name}}},
 
 {{$NEXT}}
-  - initial version
+  - First release as a separate distribution.  See FFI-Platypus
+    history for prior changes.
 
 

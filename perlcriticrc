@@ -27,7 +27,6 @@ extra_importers = Test2::V0
 [Freenode::WhileDiamondDefaultAssignment]
 
 [BuiltinFunctions::ProhibitBooleanGrep]
-[BuiltinFunctions::ProhibitStringyEval]
 [BuiltinFunctions::ProhibitStringySplit]
 [BuiltinFunctions::ProhibitVoidGrep]
 [BuiltinFunctions::ProhibitVoidMap]
