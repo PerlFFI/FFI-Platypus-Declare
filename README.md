@@ -1,4 +1,4 @@
-# FFI::Platypus::Declare [![Build Status](https://travis-ci.org/PerlFFI/FFI-Platypus-Declare.svg)](http://travis-ci.org/PerlFFI/FFI-Platypus-Declare)
+# FFI::Platypus::Declare ![linux](https://github.com/PerlFFI/FFI-Platypus-Declare/workflows/linux/badge.svg)
 
 (discouraged) Declarative interface to FFI::Platypus
 
