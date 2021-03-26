@@ -300,7 +300,11 @@ from [FFI::Platypus#abis](https://metacpan.org/pod/FFI::Platypus#abis).
 
 # AUTHOR
 
-Graham Ollis <plicease@cpan.org>
+Author: Graham Ollis <plicease@cpan.org>
+
+Contributors:
+
+Carlos D. Álvaro (cdalvaro)
 
 # COPYRIGHT AND LICENSE
 
