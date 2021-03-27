@@ -1,4 +1,4 @@
-# FFI::Platypus::Declare ![linux](https://github.com/PerlFFI/FFI-Platypus-Declare/workflows/linux/badge.svg)
+# FFI::Platypus::Declare ![linux](https://github.com/PerlFFI/FFI-Platypus-Declare/workflows/linux/badge.svg) ![macos](https://github.com/PerlFFI/FFI-Platypus-Declare/workflows/macos/badge.svg) ![windows](https://github.com/PerlFFI/FFI-Platypus-Declare/workflows/windows/badge.svg) ![cygwin](https://github.com/PerlFFI/FFI-Platypus-Declare/workflows/cygwin/badge.svg) ![msys2-mingw](https://github.com/PerlFFI/FFI-Platypus-Declare/workflows/msys2-mingw/badge.svg)
 
 (discouraged) Declarative interface to FFI::Platypus
 
