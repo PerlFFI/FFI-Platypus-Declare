@@ -2,4 +2,7 @@ FFI-Platypus-Declare-*
 /.build/
 *.swp
 
-
+/FFI-Platypus-Declare-*
+/.build
+*.old
+*.orig
